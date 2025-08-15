@@ -1,1 +1,13 @@
-# suivi-de-candidatures
+# App Suivi De Candidatures
+
+Suivi Candidature est une application  open source développée par Abdoulaye OUATTARA, Data Engineer/DevOPs.
+contact: contact@abouattara.perso.bf
+
+Les fonctionnalité de l'application
+
+⦁	Elle vous permet d'avoir un oeil sur vos candidatures prévues pour postulé, déjà postulé, et votre note sur le poste.
+⦁	Vous pourrez facilement vous repérez quelque soit le moment de la candidature.
+
+Objectif: faciliter la gestion de mes candidatures
+
+Cette présente application n'est pas commerciale, elle libre et le code source est disponible ici : https://github.com/abouattara
