@@ -3,6 +3,8 @@
 Suivi Candidature est une application  open source développée par Abdoulaye OUATTARA, Data Engineer/DevOPs.
 contact: contact@abouattara.perso.bf
 
+setup : https://drive.google.com/drive/folders/1hJtliq0oTOd5LCdyZLP1wvvg47HZQ8wo?usp=sharing
+
 Les fonctionnalité de l'application
 
 ⦁	Elle vous permet d'avoir un oeil sur vos candidatures prévues pour postulé, déjà postulé, et votre note sur le poste.
