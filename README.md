@@ -8,6 +8,7 @@ setup : https://drive.google.com/drive/folders/1hJtliq0oTOd5LCdyZLP1wvvg47HZQ8wo
 Les fonctionnalité de l'application
 
 ⦁	Elle vous permet d'avoir un oeil sur vos candidatures prévues pour postulé, déjà postulé, et votre note sur le poste.
+
 ⦁	Vous pourrez facilement vous repérez quelque soit le moment de la candidature.
 
 Objectif: faciliter la gestion de mes candidatures
