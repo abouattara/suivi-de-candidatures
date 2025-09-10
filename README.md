@@ -13,4 +13,4 @@ Setup : [Disponible ici](https://drive.google.com/drive/folders/1hJtliq0oTOd5LCd
 
 **Objectif**: faciliter la gestion de mes candidatures
 
-Cette présente application n'est pas commerciale, elle libre et le code source est [disponible ici](suivi_candidatures.py)
+Cette présente application n'est pas commerciale, elle libre et le code source est disponible [ici](suivi_candidatures.py)
