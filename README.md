@@ -1,5 +1,7 @@
 # App Suivi De Candidatures
 
+!(application purpose)[suivi_candidature.webp]
+
 Suivi Candidature est une application  open source développée par Abdoulaye OUATTARA, Data Engineer/DevOPs.
 contact: contact@abouattara.perso.bf
 
